@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-resume-tailwind",
+  "name": "l-b-portfolio",
   "private": true,
-  "description": "Gatsby starter for resume",
+  "description": "CV portfolio luke bialkowski",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
